@@ -23,7 +23,7 @@ public class DynamicJson {
     @DataProvider(name="BooksData")
     public Object[][] getData()
     {
-        return new Object[][] {{"abc","123"},{"xyz","456"},{"pqr","789"},{"Nikhil","8447"}};
+        return new Object[][] {{"abc","123"},{"xyz","456"},{"pqr","789"},{"Nikhil","8447"},{"kushagra","186836"}};
     }
 
 }
